@@ -31,7 +31,7 @@ This is an example of how you may give instructions on setting up your project l
 ### Installation
 1. Clone the repo
 ```sh
-   git clone https://github.com/LeeChongKeat/Covid19.git
+   git clone https://github.com/LeeChongKeat/Malaysia_Covid19_Prediction.git
  ```
 2. Install the Anaconda
 
@@ -45,6 +45,6 @@ This is an example of how you may give instructions on setting up your project l
 ## Contact
 Name: Lee Chong Keat - jerry_keat@hotmail.com
 
-Project Link: [https://github.com/LeeChongKeat/Covid19.git](https://github.com/LeeChongKeat/Malaysia_Covid19_Prediction.git)
+Project Link: [https://github.com/LeeChongKeat/Malaysia_Covid19_Prediction.git](https://github.com/LeeChongKeat/Malaysia_Covid19_Prediction.git)
 
 Blogger: https://codeallyourlife.blogspot.com/
